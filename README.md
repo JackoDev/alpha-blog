@@ -54,7 +54,10 @@ For version info and other gems used in the project don't hesitate to visit the 
 ## Author
 ---
 [@jackodev](https://twitter.com/jackodev_)
-For aditional info, or any questions about the project or about my job please contact me to: javierc.dev@gmail.com or soon visit my [website](jacko.dev)
+
+For aditional info, or any questions about the project or about my job please contact me to: javierc.dev@gmail.com
+
+or soon visit my [website](https://jacko.dev)
 
 ## Screenshots
 ---
